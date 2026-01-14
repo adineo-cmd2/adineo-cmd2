@@ -2,7 +2,7 @@
 <h3 align="center">
   <samp>
     &gt; Hey There!, I am
-    <b><a target="_blank" href="https://github.com/Adineo-cmd">Aditya Yadav</a></b>
+    <b><a target="_blank" href="https://github.com/Adineo-cmd2">Aditya Yadav</a></b>
   </samp>
 </h3>
 
@@ -116,8 +116,8 @@
 </h3>
 
 <div align="left">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-orcin-sigma.vercel.app?user=adineo-cmd&theme=dark" alt="GitHub Streak" height="140"/></a>
-  <img src="https://github-readme-stats-pi-tan-77.vercel.app/api/top-langs?username=adineo-cmd&layout=compact&langs_count=5&theme=radical" height="150"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-orcin-sigma.vercel.app?user=adineo-cmd2&theme=dark" alt="GitHub Streak" height="140"/></a>
+  <img src="https://github-readme-stats-pi-tan-77.vercel.app/api/top-langs?username=adineo-cmd2&layout=compact&langs_count=5&theme=radical" height="150"/>
 </div>
 
 ###
@@ -128,11 +128,7 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="25"/>
 </div>
 
 ###
