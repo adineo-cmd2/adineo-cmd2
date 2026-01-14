@@ -16,7 +16,7 @@
     <br>
     「 Currently working on <b>Roadmap-For-All</b> and learning <b>DSA</b> 」
     <br>
-    「 Goal: grow as a strong backend-focused developer and contribute to open source 」
+    「 Goal: grow as a strong frontend & backend-focused developer and contribute to open source 」
   </samp>
 </p>
 
