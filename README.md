@@ -112,17 +112,6 @@
 ###
 
 <h3 align="left">
-  <samp>🔥 My Stats</samp>
-</h3>
-
-<div align="left">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-orcin-sigma.vercel.app?user=adineo-cmd2&theme=dark" alt="GitHub Streak" height="140"/></a>
-  <img src="https://github-readme-stats-pi-tan-77.vercel.app/api/top-langs?username=adineo-cmd2&layout=compact&langs_count=5&theme=radical" height="150"/>
-</div>
-
-###
-
-<h3 align="left">
   <samp>🌐 Social</samp>
 </h3>
 
