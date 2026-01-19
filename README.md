@@ -23,73 +23,84 @@
 > *"Be alone, that is the secret of invention; be alone, that is when ideas are born."*  
 > — **Nikola Tesla**
 
-
 <h3>👀 Tech Stack</h3>
 
 <table width="100%">
   <tr>
-    <th align="left"><small>Core Development</small></th>
-    <th align="left"><small>Backend • AI • Databases</small></th>
-    <th align="left"><small>Cloud • Tools • OS</small></th>
+    <th align="left">Core Development</th>
+    <th align="left">Backend • AI • Databases</th>
+    <th align="left">Cloud • Tools • OS</th>
   </tr>
 
   <tr>
     <td valign="top">
-      <b><small>Languages</small></b><br>
-      <sub>Python</sub><br>
-      <sub>TypeScript</sub><br>
-      <sub>JavaScript</sub><br>
-      <sub>Java</sub><br><br>
+      <b>Languages</b><br>
+      <small>Python</small><br>
+      <small>TypeScript</small><br>
+      <small>JavaScript</small><br>
+      <small>Java</small><br><br>
 
-  <b><small>Frontend</small></b><br>
-      <sub>React</sub><br>
-      <sub>Vue.js</sub><br>
-      <sub>Angular</sub><br>
-      <sub>Tailwind CSS</sub><br>
-      <sub>Bootstrap</sub><br>
-      <sub>HTML5</sub><br>
-      <sub>CSS3</sub>
+  <b>Frontend</b><br>
+      <small>React</small><br>
+      <small>Vue.js</small><br>
+      <small>Angular</small><br>
+      <small>Tailwind CSS</small><br>
+      <small>Bootstrap</small><br>
+      <small>HTML5</small><br>
+      <small>CSS3</small>
     </td>
 
   <td valign="top">
-      <b><small>Backend</small></b><br>
-      <sub>Node.js</sub><br>
-      <sub>FastAPI</sub><br><br>
+      <b>Backend</b><br>
+      <small>Node.js</small><br>
+      <small>FastAPI</small><br><br>
 
-  <b><small>AI / ML</small></b><br>
-      <sub>TensorFlow</sub><br>
-      <sub>PyTorch</sub><br>
-      <sub>Pandas</sub><br>
-      <sub>OpenCV</sub><br><br>
+  <b>AI / ML</b><br>
+      <small>TensorFlow</small><br>
+      <small>PyTorch</small><br>
+      <small>Pandas</small><br>
+      <small>OpenCV</small><br><br>
 
-   <b><small>Databases</small></b><br>
-      <sub>MongoDB</sub><br>
-      <sub>MySQL</sub><br>
-      <sub>PostgreSQL</sub><br>
-      <sub>Redis</sub><br>
-      <sub>Oracle Database</sub><br>
-      <sub>SQLite</sub>
+  <b>Databases</b><br>
+      <small>MongoDB</small><br>
+      <small>MySQL</small><br>
+      <small>PostgreSQL</small><br>
+      <small>Redis</small><br>
+      <small>Oracle Database</small><br>
+      <small>SQLite</small>
     </td>
 
   <td valign="top">
-      <b><small>Cloud & DevOps</small></b><br>
-      <sub>AWS</sub><br>
-      <sub>GCP</sub><br>
-      <sub>Docker</sub><br>
-      <sub>Kubernetes</sub><br>
-      <sub>Firebase</sub><br>
-      <sub>GitHub Actions</sub><br><br>
+      <b>Cloud & DevOps</b><br>
+      <small>AWS</small><br>
+      <small>Google Cloud Platform (GCP)</small><br>
+      <small>Docker</small><br>
+      <small>Kubernetes</small><br>
+      <small>Firebase</small><br>
+      <small>GitHub Actions</small><br><br>
 
-   <b><small>Tools & OS</small></b><br>
-      <sub>Git</sub><br>
-      <sub>GitHub</sub><br>
-      <sub>Vim</sub><br>
-      <sub>Linux</sub><br>
-      <sub>Ubuntu</sub><br>
-      <sub>Windows</sub>
+  <b>Tools & OS</b><br>
+      <small>Git</small><br>
+      <small>GitHub</small><br>
+      <small>Vim</small><br>
+      <small>Linux</small><br>
+      <small>Ubuntu</small><br>
+      <small>Windows</small>
     </td>
   </tr>
 </table>
+
+
+###
+
+<h3 align="left">
+  <samp>🔥 My Stats</samp>
+</h3>
+
+<div align="left">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-orcin-sigma.vercel.app?user=adineo-cmd&theme=dark" alt="GitHub Streak" height="140"/></a>
+  <img src="https://github-readme-stats-pi-tan-77.vercel.app/api/top-langs?username=adineo-cmd&layout=compact&langs_count=5&theme=radical" height="150"/>
+</div>
 
 ###
 
