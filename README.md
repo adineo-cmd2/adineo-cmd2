@@ -2,7 +2,7 @@
 <h3 align="center">
   <samp>
     &gt; Hey There!, I am
-    <b><a target="_blank" href="https://github.com/Adineo-cmd2">Aditya Yadav</a></b>
+    <b><a target="_blank" href="https://github.com/Adineo-cmd">Aditya Yadav</a></b>
   </samp>
 </h3>
 
@@ -14,99 +14,81 @@
     <br>
     「 Focused on building clean, useful, and scalable projects 」
     <br>
-    「 Currently working on <b>Roadmap-For-All</b> and learning <b>DSA</b> 」
+    「 Currently working on <b>RoadmapX</b> and <b>webvault</b> 」
     <br>
     「 Goal: grow as a strong frontend & backend-focused developer and contribute to open source 」
   </samp>
 </p>
 
-<h3>
-  <samp>👀 Tech Stack</samp>
-</h3>
+> *"Be alone, that is the secret of invention; be alone, that is when ideas are born."*  
+> — **Nikola Tesla**
+
+
+<h3>👀 Tech Stack</h3>
 
 <table width="100%">
-<tr>
-<th align="left"><samp>Core Development</samp></th>
-<th align="left"><samp>Backend • AI • Databases</samp></th>
-<th align="left"><samp>Cloud • Tools • OS</samp></th>
-</tr>
+  <tr>
+    <th align="left"><small>Core Development</small></th>
+    <th align="left"><small>Backend • AI • Databases</small></th>
+    <th align="left"><small>Cloud • Tools • OS</small></th>
+  </tr>
 
-<tr>
-<td valign="top">
+  <tr>
+    <td valign="top">
+      <b><small>Languages</small></b><br>
+      <sub>Python</sub><br>
+      <sub>TypeScript</sub><br>
+      <sub>JavaScript</sub><br>
+      <sub>Java</sub><br><br>
 
-<samp><b>Languages</b></samp><br/>
-<div>
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img height="38" src="https://cdn.simpleicons.org/python/3776AB"/>
-</div>
+  <b><small>Frontend</small></b><br>
+      <sub>React</sub><br>
+      <sub>Vue.js</sub><br>
+      <sub>Angular</sub><br>
+      <sub>Tailwind CSS</sub><br>
+      <sub>Bootstrap</sub><br>
+      <sub>HTML5</sub><br>
+      <sub>CSS3</sub>
+    </td>
 
-<br/><samp><b>Frontend</b></samp><br/>
-<div>
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-<img height="38" src="https://img.icons8.com/color/48/tailwindcss.png"/>
-<img height="38" src="https://cdn.simpleicons.org/bootstrap/7952B3"/>
-<img height="38" src="https://cdn.simpleicons.org/html5/E34F26"/>
-<img height="38" src="https://img.icons8.com/color/48/css3.png"/>
-</div>
+  <td valign="top">
+      <b><small>Backend</small></b><br>
+      <sub>Node.js</sub><br>
+      <sub>FastAPI</sub><br><br>
 
-</td>
+  <b><small>AI / ML</small></b><br>
+      <sub>TensorFlow</sub><br>
+      <sub>PyTorch</sub><br>
+      <sub>Pandas</sub><br>
+      <sub>OpenCV</sub><br><br>
 
-<td valign="top">
+   <b><small>Databases</small></b><br>
+      <sub>MongoDB</sub><br>
+      <sub>MySQL</sub><br>
+      <sub>PostgreSQL</sub><br>
+      <sub>Redis</sub><br>
+      <sub>Oracle Database</sub><br>
+      <sub>SQLite</sub>
+    </td>
 
-<samp><b>Backend</b></samp><br/>
-<div>
-<img height="38" src="https://cdn.simpleicons.org/nodedotjs/339933"/>
-<img height="38" src="https://cdn.simpleicons.org/fastapi/009688"/>
-</div>
+  <td valign="top">
+      <b><small>Cloud & DevOps</small></b><br>
+      <sub>AWS</sub><br>
+      <sub>GCP</sub><br>
+      <sub>Docker</sub><br>
+      <sub>Kubernetes</sub><br>
+      <sub>Firebase</sub><br>
+      <sub>GitHub Actions</sub><br><br>
 
-<br/><samp><b>AI / ML</b></samp><br/>
-<div>
-<img height="38" src="https://cdn.simpleicons.org/tensorflow/FF6F00"/>
-<img height="38" src="https://cdn.simpleicons.org/pytorch/EE4C2C"/>
-<img height="38" src="https://cdn.simpleicons.org/pandas/150458"/>
-<img height="38" src="https://cdn.simpleicons.org/opencv/5C3EE8"/>
-</div>
-
-<br/><samp><b>Databases</b></samp><br/>
-<div>
-<img height="38" src="https://cdn.simpleicons.org/mongodb/47A248"/>
-<img height="38" src="https://cdn.simpleicons.org/mysql/4479A1"/>
-<img height="38" src="https://cdn.simpleicons.org/postgresql/4169E1"/>
-<img height="38" src="https://cdn.simpleicons.org/redis/DC382D"/>
-<img height="38" src="https://img.icons8.com/color/48/oracle-logo.png"/>
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-</div>
-
-</td>
-
-<td valign="top">
-
-<samp><b>Cloud & DevOps</b></samp><br/>
-<div>
-<img height="38" src="https://skillicons.dev/icons?i=aws"/>
-<img height="38" src="https://skillicons.dev/icons?i=gcp"/>
-<img height="38" src="https://cdn.simpleicons.org/docker/2496ED"/>
-<img height="38" src="https://cdn.simpleicons.org/kubernetes/326CE5"/>
-<img height="38" src="https://cdn.simpleicons.org/firebase/FFCA28"/>
-<img height="38" src="https://cdn.simpleicons.org/githubactions/2088FF"/>
-</div>
-
-<br/><samp><b>Tools & OS</b></samp><br/>
-<div>
-<img height="38" src="https://cdn.simpleicons.org/git/F05032"/>
-<img height="38" src="https://img.icons8.com/fluency/48/github.png"/>
-<img height="38" src="https://cdn.simpleicons.org/vim/019733"/>
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img height="38" src="https://img.icons8.com/color/48/ubuntu--v1.png"/>
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
-</div>
-
-</td>
-</tr>
+   <b><small>Tools & OS</small></b><br>
+      <sub>Git</sub><br>
+      <sub>GitHub</sub><br>
+      <sub>Vim</sub><br>
+      <sub>Linux</sub><br>
+      <sub>Ubuntu</sub><br>
+      <sub>Windows</sub>
+    </td>
+  </tr>
 </table>
 
 ###
