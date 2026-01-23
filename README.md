@@ -36,6 +36,7 @@
     <td valign="top">
       <b>Languages</b><br>
       <small>Python</small><br>
+      <small>C</small><br>
       <small>TypeScript</small><br>
       <small>JavaScript</small><br>
       <small>Java</small><br><br>
